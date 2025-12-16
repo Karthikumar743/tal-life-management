@@ -44,3 +44,26 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+
+# Insurance Premium Calculator (React + TypeScript)
+
+A lightweight React + TypeScript application that calculates monthly insurance premiums based on:
+
+- **Sum Insured**
+- **Age (Next Birthday)**
+- **Occupation Rating**
+- **Safe numeric validation**
+- **Automatic recalculation every time the Occupation dropdown changes**
+
+This project was initially bootstrapped using https://github.com/facebook/create-react-app with the TypeScript template.
+
+---
+
+## 🚀 Getting Started
+
+Install dependencies:
+
+```bash
+npm
+
